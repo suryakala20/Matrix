@@ -24,6 +24,8 @@ Problem 2:
 Given an n x n matrix. In the given matrix, you have to print the elements of the matrix in the snake pattern.
 
 <img width="626" height="552" alt="image" src="https://github.com/user-attachments/assets/260901c1-ddfa-40c1-9277-3da3875ea87e" />
+
+
 Examples : 
 Input: mat[][] = { {10, 20, 30, 40},
                             {15, 25, 35, 45},
